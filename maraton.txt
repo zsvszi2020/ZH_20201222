@@ -1,0 +1,34 @@
+Név,Születési év,Csapat,Születési hely,Idő
+Csontos Imre,1992,BEAC,Budapest,02:45:47
+Koch Ágoston,1998,BEAC,Sopron,02:47:01
+Csere Gáspár,1991,BEAC,Budapest,02:17:43
+Jenkei Péter,1992,Vasas,Budapest,02:20:58
+Nagy Péter,1989,Nincs,Szentgál,02:33:24
+Kánai Roland,1982,DVTK SE,Sajóörös,02:47:19
+Kohári Szabolcs,2000,Csécsei Team,Szikszó,02:48:16
+Urbán Zsolt,1974,Nincs,Hévízgyörk,02:49:40
+Schmidt Norbert,1976,MUSZE Triatlon,Dunakeszi,02:49:49
+Licsák András,1986,Dunakeszi VSE,Dunaújváros,02:49:55
+Rozenberszki Dávid,1996,Nincs,Budakalász,02:49:55
+Patocskai Tamás,1980,Kunfehértó,Dunaújváros,02:50:00
+Ózsvári Olivér,1983,Egri Triatlon Klub,Eger,02:50:00
+Török-Ilyés László,1977,SZUFLA,Szigetszentmiklós,02:50:33
+Blázsik Endre,1987,Nincs,Jánoshalma,02:50:37
+Besze Tibor,1989,Salgótarjáni Atlétikai Club,Pásztó,02:51:36
+Stolcz Tamás János,1987,Spuri SC,Győr,02:53:33
+Göllner Pál,1985,Nincs,Budapest,02:53:53
+Pintér Ferenc,1970,Nincs,Budapest,02:54:57
+Szalai András,1981,Nincs,Békéscsaba,02:55:32
+Csere Gáspár,1991,BEAC,Budapest,02:17:43
+Jenkei Péter,1992,Vasas,Budapest,02:20:58
+Nagy Péter,1989,Nincs,Szentgál,02:33:24
+Fehér Márk,1989,Jogging Plus,Szolnok,02:35:29
+Balázs Levente,1985,Vasas,Budapest,02:36:56
+Zsódér Zsolt,1971,Micro SC,Szombathely,02:37:35
+Azriel Yonah,1979,Nincs,Budapest,02:39:54
+Bulitka László,1993,DVTK SE,Kisvárda,02:41:32
+SchwartzAttila,1987,Dunakeszi VSE,Dunakeszi,02:43:09
+Tugyi Levente,1994,DVTK SE,Miskolc,02:43:32
+Szirmai Zoltán,1972,Vodafone,Budapest,02:44:45
+Horányi Gabor,1979,Nincs,Budapest,02:44:57
+Szabó Ferenc,1976,Nincs,Kőszárhegy,02:45:33
